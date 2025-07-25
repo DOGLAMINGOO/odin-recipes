@@ -17,6 +17,3 @@ It demonstrates simple navigation between pages using anchor links and basic HTM
 You can view the project by opening the `index.html` file in your browser, 
 or online via GitHub Pages at: 
 👉 [https://doglamingoo.github.io/odin-recipes/](https://doglamingoo.github.io/odin-recipes/)
-
-## Author
-**Kaustubh Mestry**
